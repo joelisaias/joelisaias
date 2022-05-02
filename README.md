@@ -1,15 +1,3 @@
-### Hi there 👋
+### Hola Soy Joel Alvarado 👋
 
-
-**joelisaias/joelisaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Blockchain
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Soy Desarrollador Java con 11 años de experiencia, con conocimientos en Python y Javascript, actualmente me encuentro aprendiendo sobre Frameworks para Front End
